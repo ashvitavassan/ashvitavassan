@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashvita Vassan
 - I have 1.5+ year of experience
-- I'm looking for job roles in Data Analytics/ Business Analytics
+- Looking for job roles in Data Analytics/ Business Analytics
 - You can connect with me on ashvita.vassan@gmail.com
 
 <!---
